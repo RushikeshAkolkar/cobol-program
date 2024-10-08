@@ -20,5 +20,10 @@
            move "45" to a.
            move "100" to b.
            add a to b giving c.
-           display "The value after adding two variable result is : " c.        
+           display "The value after adding two variable result is : " c.
+
+           move "45" to d.
+           move "100" to e.
+           subtract e from d giving f.
+           display "Subtraction of two numbers "f.             
        stop run.
